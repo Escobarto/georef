@@ -1,0 +1,74 @@
+[
+  {
+    "id":1,
+    "titulo":"Bastão Cerimonial",
+    "autor":"Comunidade X",
+    "ano":1980,
+    "categoria":"Cerâmica",
+    "latitude":-22.91216,
+    "longitude":-43.23018,
+    "descricao":"Bastão cerimonial utilizado em festividades locais.",
+    "imagem":"sample_images\/objeto_1.png",
+    "tags":"cerimonial;festividade;madeira"
+  },
+  {
+    "id":2,
+    "titulo":"Máscara Ritual",
+    "autor":"Artesão Y",
+    "ano":1995,
+    "categoria":"Escultura",
+    "latitude":-22.9068,
+    "longitude":-43.1729,
+    "descricao":"Máscara usada em rituais de passagem.",
+    "imagem":"sample_images\/objeto_2.png",
+    "tags":"máscara;ritual;tradição"
+  },
+  {
+    "id":3,
+    "titulo":"Tecido Bordado",
+    "autor":"Comunidade Z",
+    "ano":1970,
+    "categoria":"Têxtil",
+    "latitude":-22.973,
+    "longitude":-43.1836,
+    "descricao":"Tecido com bordados tradicionais representando lendas locais.",
+    "imagem":"sample_images\/objeto_3.png",
+    "tags":"têxtil;bordado;lenda"
+  },
+  {
+    "id":4,
+    "titulo":"Instrumento Musical",
+    "autor":"Artista W",
+    "ano":2005,
+    "categoria":"Instrumento",
+    "latitude":-22.94,
+    "longitude":-43.21,
+    "descricao":"Instrumento utilizado em manifestações populares.",
+    "imagem":"sample_images\/objeto_4.png",
+    "tags":"música;instrumento;folk"
+  },
+  {
+    "id":5,
+    "titulo":"Fotografia Antiga",
+    "autor":"Arquivo Local",
+    "ano":1920,
+    "categoria":"Fotografia",
+    "latitude":-22.9519,
+    "longitude":-43.2105,
+    "descricao":"Registro fotográfico de evento cultural histórico.",
+    "imagem":"sample_images\/objeto_5.png",
+    "tags":"fotografia;história;evento"
+  },
+  {
+    "id":"6",
+    "titulo":"Boneco",
+    "autor":"",
+    "ano":"",
+    "categoria":"",
+    "latitude":"",
+    "longitude":"",
+    "descricao":"",
+    "imagem":"uploads\\obj_6.jpg",
+    "tags":""
+  }
+]
